@@ -40,3 +40,20 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# === Logistic Regression ===
+# Accuracy             : 0.999084
+# Precision (pos=1)    : 0.852459
+# Recall/TPR (pos=1)   : 0.547368
+# F1 (pos=1)           : 0.666667
+
+# === Gaussian Naive Bayes ===
+# Accuracy             : 0.978677
+# Precision (pos=1)    : 0.062058
+# F1 (pos=1)           : 0.115497
+
+# === KNN ===
+# Accuracy             : 0.999630
+# Precision (pos=1)    : 0.962500
+# Recall/TPR (pos=1)   : 0.810526
+# F1 (pos=1)           : 0.880000
